@@ -25,7 +25,7 @@ This release does **not** include saved chat screenshots or the experimental cac
 
 ## Install on Ubuntu
 
-Download `WhatsApp-QuickStart-0.1.1-amd64.deb` from this repository's **Releases** page. In the folder containing that file:
+Download [`WhatsApp-QuickStart-0.1.1-amd64.deb`](https://github.com/isameersah/whatsapp-quickstart/releases/download/v0.1.1/WhatsApp-QuickStart-0.1.1-amd64.deb) from this repository's **Releases** page. In the folder containing that file:
 
 ```bash
 sudo apt install ./WhatsApp-QuickStart-0.1.1-amd64.deb
