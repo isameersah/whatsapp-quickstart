@@ -1,4 +1,6 @@
-# WhatsApp QuickStart
+# WhatsApp QuickStart - Your chats, without the wait. skip the splash with WhatsApp QuickStart.
+
+Your chats, without the wait. skip the splash with WhatsApp QuickStart.
 
 A dedicated Ubuntu desktop window for WhatsApp Web.
 
